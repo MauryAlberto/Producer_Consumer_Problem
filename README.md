@@ -6,7 +6,7 @@ It demonstrates how multiple producer and consumer threads can safely interact w
 
 This is a learning project to explore concurrency in C++. If you're preparing for systems programming, embedded development, or just want to improve your understanding of multithreading, this example is a great place to start.
 
----
+
 
 ## Concepts Covered
 
@@ -17,7 +17,7 @@ This is a learning project to explore concurrency in C++. If you're preparing fo
 - Simulating delays with `std::this_thread::sleep_for`
 - Classic bounded buffer problem (size-limited queue)
 
----
+
 
 ## Build and Run
 
