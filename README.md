@@ -39,10 +39,7 @@ g++ -std=c++11 -pthread Producer_Consumer_Problem.cpp -o producer_consumer
 
 ### Example Output
 
-Producer 1 produced: 0  
-Consumer 2 consumed: 0  
-Producer 2 produced: 0  
-Consumer 1 consumed: 0  
+ ![image](https://github.com/user-attachments/assets/17efb276-dd98-4b3a-925e-c5686e6ad3ff)
 ...  
-Final Buffer Size = 0
+![image](https://github.com/user-attachments/assets/2a480cf9-77e3-453b-85b1-58d3f9578a04)
 
